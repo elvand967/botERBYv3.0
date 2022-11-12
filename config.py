@@ -1,3 +1,2 @@
 # '5467268865:AAHU5WKPfC79jSP3ujUfQJvpkdlzfB19_gg' - курсы валют BY
-
 API_TOKEN = '5467268865:AAHU5WKPfC79jSP3ujUfQJvpkdlzfB19_gg'

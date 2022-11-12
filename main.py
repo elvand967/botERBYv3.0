@@ -25,8 +25,6 @@ bot = telebot.TeleBot(API_TOKEN)
 import keyboards as kb
 import database as db
 
-# dp = Dispatcher(bot)
-
 
 # Проверим наличие, при необходимости создадим нужные таблицы базы данных бота
 if not db.fun_checking_if_table_exists('USERS'):

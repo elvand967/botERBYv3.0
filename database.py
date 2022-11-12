@@ -417,7 +417,6 @@ def get_top_buys(idChat, currency): # аргументы id чата(польз�
         formatted_string += '{:7.4f}'.format(other_list_source_tuples[i][3])
         formatted_string += '          ' + other_list_source_tuples[i][2] +'\n'
 
-
     return formatted_string
 
 
