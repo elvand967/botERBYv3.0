@@ -81,7 +81,7 @@ def fun_keyboard_TopCourses(best_courses, cityBank='Молодечно'):
 
 
 
-#
+
 # button_hi = KeyboardButton('Привет! 👋')
 #
 # greet_kb = ReplyKeyboardMarkup() # создаём первую клавиатуру

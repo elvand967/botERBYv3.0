@@ -459,5 +459,4 @@ def get_addresses(idChat):
         formatted_string += list_address[i][2] + '\n'
         formatted_string += list_address[i][3] + '\n'
         formatted_string += ('-' * 55) + '\n'
-
     return formatted_string
